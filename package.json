@@ -1,0 +1,14 @@
+{
+  "name": "ng-start",
+  "version": "1.0.0",
+  "description": "Angular2 with typescipt",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
